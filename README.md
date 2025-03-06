@@ -1,6 +1,7 @@
 ## IMPORTANT NOTE
 
 Please open the Optimizations.md file to check what possible optimisations and security measures can be applied to the project.
+Also note that screenshots are attached in the /src/screenshots folder.
 
 ## Description
 
